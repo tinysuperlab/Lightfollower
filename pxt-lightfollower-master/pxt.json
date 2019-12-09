@@ -1,0 +1,19 @@
+{
+    "name": "lightfollower",
+    "version": "0.0.1",
+    "description": "Lightfollower package for the Tiny Super Lab - Lightfollower board",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "lightfollower.ts",
+	    "_locales/de/lightfollower-strings.json",
+        "_locales/de/lightfollower-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
