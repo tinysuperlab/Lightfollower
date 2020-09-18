@@ -4,4 +4,4 @@
 
 ## Supported target
 
-* for PXT/calliope
+* for PXT/calliopemini
